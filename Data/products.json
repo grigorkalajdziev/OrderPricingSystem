@@ -1,0 +1,9 @@
+{
+  "products": [
+    {
+      "id": "PROD-001",
+      "name": "Premium Widget",
+      "price": 12.00
+    }
+  ]
+}
