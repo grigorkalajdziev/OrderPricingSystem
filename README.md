@@ -7,7 +7,7 @@ The system handles e-commerce order pricing by:
 
 Calculating order subtotal
 
-Applying tiered discounts based on quantity
+Applying tiered discounts based on quantity 
 
 Enforcing a minimum subtotal threshold for discounts
 
